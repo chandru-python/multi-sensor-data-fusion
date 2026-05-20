@@ -1,6 +1,6 @@
 # 🚗 Multi-Sensor Data Fusion for Self-Driving Cars
 
-## Using LiDAR, Camera, and Kalman Filter
+## Using LiDAR, Camera, and Kalman
 
 ---
 
